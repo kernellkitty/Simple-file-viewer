@@ -1,0 +1,15 @@
+C:\Users\Skebob\source\repos\skebobus\skebobus\bin\Debug\skebobus.exe.config
+C:\Users\Skebob\source\repos\skebobus\skebobus\bin\Debug\skebobus.exe
+C:\Users\Skebob\source\repos\skebobus\skebobus\bin\Debug\skebobus.pdb
+C:\Users\Skebob\source\repos\skebobus\skebobus\obj\Debug\skebobus.csproj.AssemblyReference.cache
+C:\Users\Skebob\source\repos\skebobus\skebobus\obj\Debug\MainWindow.g.cs
+C:\Users\Skebob\source\repos\skebobus\skebobus\obj\Debug\App.g.cs
+C:\Users\Skebob\source\repos\skebobus\skebobus\obj\Debug\skebobus_MarkupCompile.cache
+C:\Users\Skebob\source\repos\skebobus\skebobus\obj\Debug\skebobus_MarkupCompile.lref
+C:\Users\Skebob\source\repos\skebobus\skebobus\obj\Debug\MainWindow.baml
+C:\Users\Skebob\source\repos\skebobus\skebobus\obj\Debug\skebobus.g.resources
+C:\Users\Skebob\source\repos\skebobus\skebobus\obj\Debug\skebobus.Properties.Resources.resources
+C:\Users\Skebob\source\repos\skebobus\skebobus\obj\Debug\skebobus.csproj.GenerateResource.cache
+C:\Users\Skebob\source\repos\skebobus\skebobus\obj\Debug\skebobus.csproj.CoreCompileInputs.cache
+C:\Users\Skebob\source\repos\skebobus\skebobus\obj\Debug\skebobus.exe
+C:\Users\Skebob\source\repos\skebobus\skebobus\obj\Debug\skebobus.pdb
